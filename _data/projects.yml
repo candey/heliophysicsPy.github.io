@@ -165,3 +165,11 @@
   docs: "https://spiceypy.readthedocs.io/en/latest/"
   code_url: "https://github.com/AndrewAnnex/SpiceyPy"
   contact: "Andrew M. Annex"
+
+- name: "CDFlib"
+  html_url: "https://github.com/MAVENSDC/cdflib"
+  description: "A pure Python Common Data Format (CDF) reader/writer library"
+  logo: ""
+  docs: "https://cdf.gsfc.nasa.gov/"
+  code_url: "https://github.com/MAVENSDC/cdflib"
+  contact: "Bryan Harter and CDF <gsfc-cdf-support@lists.nasa.gov>"
